@@ -112,11 +112,11 @@ h2{
 }
 .project-card{
     width:350px;
-    height: 500px;
+    height: 400px;
     box-shadow: 5px 5px 20px rgb(179, 179, 179);
     text-align: center;
     font-family: Roboto;
-    line-height: 40px;
+    line-height: 30px;
 }
 .project-container{
     display: flex;
@@ -128,9 +128,9 @@ h2{
 .project-container button{
     width: 100px;
     height: 30px;
-    background-color:#a8a7a7;
+    background-color:black;
     color: white;
-    border:none;
+    border: none;
     outline: none;
     border-radius: 5px;
     font-family: Roboto;
